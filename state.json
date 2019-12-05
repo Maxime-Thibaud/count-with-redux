@@ -1,0 +1,4 @@
+{
+	"payload": "[{\"type\":\"ADD 10\"},{\"type\":\"REMOVE\"},{\"type\":\"ADD\"},{\"type\":\"ADD\"},{\"type\":\"REMOVE 10\"},{\"type\":\"RESET\"},{\"type\":\"REMOVE 10\"},{\"type\":\"REMOVE\"},{\"type\":\"ADD 10\"},{\"type\":\"ADD\"},{\"type\":\"REMOVE 10\"},{\"type\":\"ADD 10\"},{\"type\":\"REMOVE\"},{\"type\":\"REMOVE\"},{\"type\":\"ADD\"},{\"type\":\"ADD\"},{\"type\":\"RESET\"}]",
+	"preloadedState": "0"
+}
